@@ -1,5 +1,5 @@
-# Java_Codigos-POLI
-Estructura Basicas Java
+# Estructuras Basicas en POO Java
+
 
 <h1 align="center"> FUNDAMENTOS DE PROGRAMACION </h1>
 
