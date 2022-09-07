@@ -32,16 +32,25 @@
 
 A continuacion se presenta la orgranizacion en cada una de las estructuras basicas de construccion para JAVA.
 
-1.Estructura_Tipos_Datos_JAVA
-2.Estructura_Operadores_JAVA
-3.Estructura_Entrada_Datos_JAVA
-4.Estructura_Ciclos_JAVA
-5.Estructuras_Condicionales_JAVA
-6.Estructuras_Arreglos_JAVA
-7.Estructura_Comentarios_JAVA
-8.Estructura_POO_JAVA
-9.Estructura_Interface_JAVA
-10.Estructura_Tablas_JAVA
+   1.Estructura_Tipos_Datos_JAVA
+
+   2.Estructura_Operadores_JAVA
+
+   3.Estructura_Entrada_Datos_JAVA
+
+   4.Estructura_Ciclos_JAVA
+
+   5.Estructuras_Condicionales_JAVA
+
+   6.Estructuras_Arreglos_JAVA
+
+   7.Estructura_Comentarios_JAVA
+
+   8.Estructura_POO_JAVA
+
+   9.Estructura_Interface_JAVA
+
+  10.Estructura_Tablas_JAVA
 
 *[Estado del proyecto](#Estado-del-proyecto)
 
