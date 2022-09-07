@@ -1,10 +1,8 @@
-# Estructuras Basicas en POO Java
+
+<h1 align="center"> FUNDAMENTOS DE PROGRAMACIÓN </h1>
 
 
-<h1 align="center"> FUNDAMENTOS DE PROGRAMACION </h1>
-
-
-# CODIGOS_FUENTE_PROGRAMACION
+# CODIGOS_FUENTE_PROGRAMACIÓN
 
 
  A continuacion se presentan ejemplos de codigos de programacion en JAVA. Estos ejemplos son una recopilacion para el aprendizaje. De igual forma en caso de tener alguna pregunta o novedad escribir a Harol.Torres.Neuta@outlook.com.
