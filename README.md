@@ -7,7 +7,7 @@ Java_Codigos-POLI
 # CODIGOS_FUENTE_PROGRAMACION
 
 
- A continuacion se presentan ejemplos de codigos de programacion en C++ y JAVA. Estos ejemplos son una recopilacion para el aprendizaje. De igual forma en caso de tener alguna pregunta o novedad escribir a Harol.Torres.Neuta@outlook.com.
+ A continuacion se presentan ejemplos de codigos de programacion en JAVA. Estos ejemplos son una recopilacion para el aprendizaje. De igual forma en caso de tener alguna pregunta o novedad escribir a Harol.Torres.Neuta@outlook.com.
 
  Saludos. 
  
@@ -15,8 +15,6 @@ Java_Codigos-POLI
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
  </p>
  
- 
-![C++](https://user-images.githubusercontent.com/66041310/188907729-bf907fea-04b3-4147-b3fa-fc0df162e3ea.png)
 
 ![Java](https://user-images.githubusercontent.com/66041310/188911547-85bde907-200e-4acd-873e-f6175edfa846.png)
 
