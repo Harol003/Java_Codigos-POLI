@@ -25,8 +25,8 @@
 
 *[Índice](#índice)
 
-        Clases, objetos, metodos, atributos en C++
-        Estructuras Basicas en C++
+        Clases, objetos, metodos, atributos en JAVA
+        Estructuras Basicas en JAVA
 
 *[Descripción del proyecto](#descripción-del-proyecto)
 
