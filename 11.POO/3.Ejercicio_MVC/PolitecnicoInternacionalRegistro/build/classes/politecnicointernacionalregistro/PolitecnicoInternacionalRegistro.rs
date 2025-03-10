@@ -1,0 +1,5 @@
+politecnicointernacionalregistro.PolitecnicoInternacionalRegistro
+politecnicointernacionalregistro.Usuario
+politecnicointernacionalregistro.Controlador
+politecnicointernacionalregistro.Controlador$GuardarListener
+politecnicointernacionalregistro.Vista
